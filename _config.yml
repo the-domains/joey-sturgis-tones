@@ -1,7 +1,7 @@
 name: Joey Sturgis Tones
 favicon: null
-layout_spectrum: 0.8035130065400153
-typography_spectrum: 0.7033829162828624
+layout_spectrum: 0.93235
+typography_spectrum: 0.5336
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.888346636435017
+  brandStrength: 0.6875
   lightness: 0.7631590138189495
   saturation: 0.34384338557720184
   rhythmicContrast: 0.22948962124064565
